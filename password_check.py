@@ -8,5 +8,5 @@ for p in range(3):
     else:
         print("Access Denied!")
 else:
-    print("No more attemps")
+    print("No more attemps!")
 
