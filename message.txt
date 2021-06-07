@@ -1,0 +1,2 @@
+Was the password difficult to crack?
+How many attempts did you need to crack it?
